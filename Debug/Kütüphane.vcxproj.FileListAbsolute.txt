@@ -1,0 +1,4 @@
+D:\C++ Çalışmaları\Kütüphane\Kütüphane\Debug\Kütüphane.exe
+D:\C++ Çalışmaları\Kütüphane\Kütüphane\Debug\Kütüphane.pdb
+D:\C++ Çalışmaları\Kütüphane\Kütüphane - Kopya\Debug\Kütüphane.exe
+D:\C++ Çalışmaları\Kütüphane\Kütüphane - Kopya\Debug\Kütüphane.pdb
